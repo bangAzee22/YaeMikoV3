@@ -5,9 +5,9 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
   let _type = (args[0] || '').toLowerCase()
 
 //------- NOMOR
-  let nowner = `${nomorown.split`@`[0]}@s.whatsapp.net`
+  let nowner = `${nomorown.split`@`[6282169638085]}@s.whatsapp.net`
   let teksnomor = `${htki} *OWNER* ${htka}
-• @${nomorown.split`@`[0]} •
+• @${nomorown.split`@`[6282169638085]} •
 ------- ${nameown} -------
 
 🍀 *Pemberitahuan*
@@ -25,7 +25,7 @@ let teksbio = `${htki} *BIODATA* ${htka}
 *ᴄᴇᴡᴇᴋ:* Chaca
 
 *ʙɪʀᴛʜᴅᴀʏ:* 31
-*ᴀᴅᴅʀᴇss:* Indonesia, Jatim
+*ᴀᴅᴅʀᴇss:* Indonesia, Sumatra Utara
 
 *- - sᴋɪʟʟs: - -* 
 > JavaScript [77.7%]
